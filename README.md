@@ -1,13 +1,15 @@
 <div align="center">
 
-# RIDANSHU CHAUDHARY
-
-### CSE Student | C++ DSA | MERN | Problem Solving
+<img src="./ridanshu-github-terminal-complete.gif" width="100%">
 
 </div>
+<!-- <div align="center">
+# RIDANSHU CHAUDHARY
+### CSE Student | C++ DSA | MERN | Problem Solving
+</div> -->
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 ### Hi, I'm Ridanshu
 
@@ -18,9 +20,8 @@ Currently working on:
 
 **DSA with C++**  
 **MERN Stack Development**  
-**Building projects and improving every day**
-
-</div>
+**Building projects and improving every day** 
+</div>-->
 <br>
 
 <div align="center">
